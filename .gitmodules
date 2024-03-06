@@ -1,3 +1,6 @@
 [submodule "Smart_Culc"]
 	path = Smart_Culc
 	url = https://github.com/Shanhai87/Smart_Culc
+[submodule "3D_Viewer"]
+	path = 3D_Viewer
+	url = https://github.com/Shanhai87/3D_Viewer
