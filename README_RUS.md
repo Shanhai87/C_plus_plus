@@ -1,4 +1,4 @@
-## Contents
+## Содержание
 
 1. [Калькулятор](#калькулятор) \
     1.1. [Установка](#установка-калькулятора)
@@ -8,6 +8,7 @@
     3.1. [Установка](#установка-tanks)
 
 # Калькулятор
+[Содержание](#содержание)
 
 <img align="right" src="misc/calculate.png" alt="calculate" width="400"/>
 
@@ -19,12 +20,14 @@
 Проект полностью соответстует заданию, расположенному в каталоге Smart_Culc (файл README_RUS.md).
 
 ## Установка Калькулятора
+[Содержание](#содержание)
 
 В каталоге проекта Smart_Culc следует перейти в каталог src и выполнить команду make (в системе должна быть установлена утилита Make, а также библиотека Qt).
 <br>Запустить программу, если она расположена по данному пути (зависит от системы):
     <br>&emsp;&emsp;<span style="color:gray">*./SmartCalc_2.0.app/Contents/MacOS/SmartCalc_2.0*</span>
 
 # 3DViewer
+[Содержание](#содержание)
 
 <img align="right" src="misc/3D_wireframe.png" alt="calculate" width="400"/>
 
@@ -33,12 +36,14 @@
 <img src="misc/3D_smooth.png" alt="calculate" width="400"/><img src="misc/3D_textured.png" alt="calculate" width="600"/>
 
 ## Установка 3DViewer
+[Содержание](#содержание)
 
 В каталоге проекта 3D_Viewer следует перейти в каталог src и выполнить команду make (в системе должна быть установлена утилита Make, а также библиотека Qt).
 <br>Запустить программу, если она расположена по данному пути (зависит от системы):
     <br>&emsp;&emsp;<span style="color:gray">*./3DViewer_2.0.app/Contents/MacOS/3DViewer_2.0*</span>
 
 # Tanks
+[Содержание](#содержание)
 
 <img align="right" src="misc/Tanks_startscreen.png" alt="calculate" width="400"/>
 
@@ -49,5 +54,6 @@
 <img src="misc/Tanks_win.png" alt="calculate" width="400"/>
 
 ## Установка Tanks
+[Содержание](#содержание)
 
 В каталоге проекта GameTanks необходимо перейти в src/ex00 и следовать инструкциям по установке, описанным в README.md (в системе должна быть установлена PostgreSQL, Java (версия 21), система сборки Maven).
