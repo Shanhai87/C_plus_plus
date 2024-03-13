@@ -13,7 +13,7 @@
 
 В данном проекте на языке программирования С++ в парадигме объектно-ориентированного программирования реализована расширенная версия обычного калькулятора. Помимо базовых арифметических операций, как плюс-минус и умножить-поделить, калькулятор дополнен возможностью вычисления арифметических выражений с учетом приоритетов, а так же некоторыми математическими функциями (синус, косинус, логарифм и т.д.). Помимо вычисления выражений калькулятор так же поддерживает использование переменных x, y и z и способен строить график соответствующей функции. В качестве дополнительных улучшений есть кредитный и депозитный калькулятор.
 
-<img src="misc/plot.PNG" alt="calculate" width="400"/><img src="misc/finansy.PNG" alt="finansy" width="400"/>
+<img src="misc/plot.png" alt="calculate" width="400"/><img src="misc/finansy.png" alt="finansy" width="400"/>
 
 В реализации калькулятора использован *алгоритм Дейкстры* для перевода выражений в *обратную польскую нотацию*.
 Проект полностью соответстует заданию, расположенному в каталоге Smart_Culc (файл README_RUS.md).
@@ -26,11 +26,11 @@
 
 # 3DViewer
 
-<img align="right" src="misc/3D_wireframe.PNG" alt="calculate" width="400"/>
+<img align="right" src="misc/3D_wireframe.png" alt="calculate" width="400"/>
 
 Программа позволяет осуществлять визуализацию трехмерного объекта в каркасном виде и с закраской граней.
 
-<img src="misc/3D_smooth.PNG" alt="calculate" width="400"/><img src="misc/3D_textured.PNG" alt="calculate" width="600"/>
+<img src="misc/3D_smooth.png" alt="calculate" width="400"/><img src="misc/3D_textured.png" alt="calculate" width="600"/>
 
 ## Установка 3DViewer
 
@@ -40,13 +40,13 @@
 
 # Tanks
 
-<img align="right" src="misc/Tanks_startscreen.PNG" alt="calculate" width="400"/>
+<img align="right" src="misc/Tanks_startscreen.png" alt="calculate" width="400"/>
 
 Онлайн игра "Танки" - клиент-серверное приложение с использованием базы данных.
 
-<img src="misc/Tanks_database.PNG" alt="calculate" width="400"/>
-<img src="misc/Tanks_game.PNG" alt="calculate" width="400"/>
-<img src="misc/Tanks_win.PNG" alt="calculate" width="400"/>
+<img src="misc/Tanks_database.png" alt="calculate" width="400"/>
+<img src="misc/Tanks_game.png" alt="calculate" width="400"/>
+<img src="misc/Tanks_win.png" alt="calculate" width="400"/>
 
 ## Установка Tanks
 
